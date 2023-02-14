@@ -3,3 +3,4 @@
 2. A script that changes the current working directory to home
 3. A script that list contents of a directory in long format
 4. A script that list hidden files
+5. A script that shows contents of directory including user and group ID's numerically
