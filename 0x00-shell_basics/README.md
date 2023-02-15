@@ -7,4 +7,5 @@
 6. A script that creates a directory in another different directory
 7. A script that move a file fro one location to another
 8. A script that deletes a file
-9. A script that deletes a directory 
+9. A script that deletes a directory
+10. A script that changes directory to the previous one 
