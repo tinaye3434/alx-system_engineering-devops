@@ -11,4 +11,5 @@
 10. A script that changes directory to the previous one
 11. A script that list contents of diffrent directories at once
 12. A script that show file type
-13. A script to create a symbolic link 
+13. A script to create a symbolic link
+14. A script to copy all html files 
