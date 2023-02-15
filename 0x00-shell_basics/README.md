@@ -5,4 +5,6 @@
 4. A script that list hidden files
 5. A script that shows contents of directory including user and group ID's numerically
 6. A script that creates a directory in another different directory
-7. A script that move a file fro one location to another 
+7. A script that move a file fro one location to another
+8. A script that deletes a file
+9. A script that deletes a directory 
