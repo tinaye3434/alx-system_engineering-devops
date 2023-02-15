@@ -8,4 +8,5 @@
 7. A script that move a file fro one location to another
 8. A script that deletes a file
 9. A script that deletes a directory
-10. A script that changes directory to the previous one 
+10. A script that changes directory to the previous one
+11. A script that list contents of diffrent directories at once 
