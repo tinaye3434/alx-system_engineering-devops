@@ -10,4 +10,5 @@
 9. A script that deletes a directory
 10. A script that changes directory to the previous one
 11. A script that list contents of diffrent directories at once
-12. A script that show file type 
+12. A script that show file type
+13. A script to create a symbolic link 
