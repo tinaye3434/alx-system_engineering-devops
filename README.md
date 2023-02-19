@@ -1,1 +1,1 @@
-Its all about the BASH 
+0. A script alias demostraion
