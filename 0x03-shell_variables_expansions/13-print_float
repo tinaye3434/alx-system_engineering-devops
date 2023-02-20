@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%.2\n" $NUM
+printf "%.2\n" $((10**2 *$NUM))e-2
